@@ -37,7 +37,7 @@ export default function AdminPage() {
     });
 
     return () => unsub();
-  }, []);
+  }, [router]);
 
   const handleSubmit = async (e) => {
     e.preventDefault();

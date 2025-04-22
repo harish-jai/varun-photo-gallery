@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Varun's Photography</title>
+        <title>Varun&apos;s Photography</title>
       </Head>
 
       <StarfieldCanvas />
@@ -19,7 +19,7 @@ export default function Home() {
       <div className="starfield">
         <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
           <div className="glass-card" style={{ minWidth: '320px', maxWidth: '400px', width: '100%' }}>
-            <h1>Varun's Photography</h1>
+            <h1>Varun&apos;s Photography</h1>
             <p>
               <a href="https://www.instagram.com/digital.photon/" target="_blank" rel="noopener noreferrer">
                 @digital.photon

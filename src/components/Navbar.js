@@ -41,7 +41,7 @@ export default function Navbar() {
       }}
     >
       <div style={{ fontWeight: 'bold', fontSize: '1.2rem' }}>
-        <Link href="/">Varun's Gallery</Link>
+        <Link href="/">Varun&apos;s Gallery</Link>
       </div>
 
       <div style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>

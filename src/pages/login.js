@@ -20,7 +20,7 @@ export default function LoginPage() {
       }
     });
     return () => unsub();
-  }, []);
+  }, [router]);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
